@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6789dd25eac24bca6bf55a9621e67bcfa3103673">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4b5eff378709db199700e69acecdbdb8bcf277bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c6e80d1f2450fd37fccc839fa2ea43df7056475b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_8f8894f477d16c945d5ab7e852db5a98f354aa73/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5e3b0922c84543c9288ccf73460568fdbdb0c7ec">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_84429e66dbfcfe312f46aa1dc8a2518202658ea2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_72275b0a9212ff01d893347a7ae8127148cc0540/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_45a043054173d0ef17cfd605e264653e8b613dba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_27d454eac1c8b6384c7ba2b904a625c800dd0aa4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_88d6e7fe919a70f49dac93c1df32bfac4a3c9e4b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_223e9d93404d559508385ae87f40682ab1687414/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9b9c7d580069ed92077d71c6c77c479e5b0acfcf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Verse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_b22a4995a3046946fec9a06a8d9f2657c96ce8c9/classes.dex" />
+    </item>
+
+</items>
